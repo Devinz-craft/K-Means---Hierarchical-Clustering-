@@ -35,7 +35,3 @@ To segment customers using clustering techniques to uncover behavioral patterns,
 - matplotlib
 - scipy
 
-## Potential Improvements
-- Parameter tuning using the elbow method or silhouette scores.
-- Visualization of KMeans clusters (currently missing).
-- Completing the cluster label merging and exporting clustered dataset.
